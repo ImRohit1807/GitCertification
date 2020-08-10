@@ -1,5 +1,9 @@
 class HelloWorld{
 	public static void main(String args[]){
-	Sysyem.out.println("Hell0");
+	System.out.println("Hell0");
+
+	System.out.println("Good Bye");
+
+	
 	}
 }
